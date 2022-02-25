@@ -50,7 +50,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-We provide a MATLAB implementation of implicit dual control-based active uncertainty learning for autonomous driving applications, which can be found [here](https://github.com/SafeRoboticsLab/Dual_Control_HRI/tree/main).
+We provide an MATLAB implementation of implicit dual control-based active uncertainty learning for autonomous driving applications, which can be found [here](https://github.com/SafeRoboticsLab/Dual_Control_HRI/tree/main).
 
 Click to watch our spotlight video:
 [![Watch the video](https://haiminhu.files.wordpress.com/2022/02/dual_control_hri_video_cover.png)](https://haiminhu.files.wordpress.com/2022/02/dual_control_hri.mp4)
