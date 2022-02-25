@@ -115,9 +115,9 @@ Distributed under the BSD 3-Clause License. See `LICENSE` for more information.
 
 Haimin Hu - [@HaiminHu](https://twitter.com/HaiminHu) - haiminh@princeton.edu
 
-Project Link: [https://github.com/SafeRoboticsLab/SHARP](https://github.com/SafeRoboticsLab/Dual_Control_HRI)
+Project Link: [https://github.com/SafeRoboticsLab/Dual_Control_HRI](https://github.com/SafeRoboticsLab/Dual_Control_HRI)
 
-Homepage Link: [https://haiminhu.org/research/sharp](https://haiminhu.org/dual_control_hri)
+Homepage Link: [https://haiminhu.org/dual_control_hri](https://haiminhu.org/dual_control_hri)
 
 
 <!-- PAPER -->
