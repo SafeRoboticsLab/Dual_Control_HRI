@@ -12,7 +12,7 @@
     <img src="Misc/stree.png" alt="Logo" >
   </a>
 
-  <h3 align="center">Dual_Control_HRI</h3>
+  <h3 align="center">Active Uncertainty Learning for HRI</h3>
 
   <p align="center">
     Active Uncertainty Learning for Human-Robot Interaction: An Implicit Dual Control Approach
