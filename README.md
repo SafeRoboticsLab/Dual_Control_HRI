@@ -135,7 +135,7 @@ Available on arXiv: [https://arxiv.org/abs/2202.07720](https://arxiv.org/abs/220
 }
 ```
 
-Our prior work
+Our prior work:
 
 ```tex
 @ARTICLE{hu2022sharp,
