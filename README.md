@@ -127,10 +127,26 @@ Available on arXiv: [https://arxiv.org/abs/2202.07720](https://arxiv.org/abs/220
 
 ```tex
 @article{hu2022active,
-  title={Active Uncertainty Learning for Human-Robot Interaction: An Implicit Dual Control Approach},
+  title={Active Uncertainty Reduction for Human-Robot Interaction: An Implicit Dual Control Approach},
   author={Hu, Haimin and Fisac, Jaime F},
-  journal={arXiv preprint arXiv:2202.07720},
-  year={2022}
+  booktitle={Algorithmic Foundations of Robotics XV},
+  year={2022},
+  publisher={Springer}
+}
+```
+
+Our prior work
+
+```tex
+@ARTICLE{hu2022sharp,
+  author={Hu, Haimin and Nakamura, Kensuke and Fisac, Jaime F.},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={SHARP: Shielding-Aware Robust Planning for Safe and Efficient Human-Robot Interaction}, 
+  year={2022},
+  volume={7},
+  number={2},
+  pages={5591-5598},
+  doi={10.1109/LRA.2022.3155229}
 }
 ```
 
