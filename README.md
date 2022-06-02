@@ -126,7 +126,7 @@ Homepage Link: [https://haiminhu.org/dual_control_hri](https://haiminhu.org/dual
 Available on arXiv: [https://arxiv.org/abs/2202.07720](https://arxiv.org/abs/2202.07720)
 
 ```tex
-@article{hu2022active,
+@incollection{hu2022active,
   title={Active Uncertainty Reduction for Human-Robot Interaction: An Implicit Dual Control Approach},
   author={Hu, Haimin and Fisac, Jaime F},
   booktitle={Algorithmic Foundations of Robotics XV},
@@ -138,7 +138,7 @@ Available on arXiv: [https://arxiv.org/abs/2202.07720](https://arxiv.org/abs/220
 Our prior work:
 
 ```tex
-@ARTICLE{hu2022sharp,
+@article{hu2022sharp,
   author={Hu, Haimin and Nakamura, Kensuke and Fisac, Jaime F.},
   journal={IEEE Robotics and Automation Letters}, 
   title={SHARP: Shielding-Aware Robust Planning for Safe and Efficient Human-Robot Interaction}, 
