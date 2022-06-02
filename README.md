@@ -128,7 +128,7 @@ Available on arXiv: [https://arxiv.org/abs/2202.07720](https://arxiv.org/abs/220
 ```tex
 @incollection{hu2022active,
   title={Active Uncertainty Reduction for Human-Robot Interaction: An Implicit Dual Control Approach},
-  author={Hu, Haimin and Fisac, Jaime F},
+  author={Hu, Haimin and Fisac, Jaime F.},
   booktitle={Algorithmic Foundations of Robotics XV},
   year={2022},
   publisher={Springer}
