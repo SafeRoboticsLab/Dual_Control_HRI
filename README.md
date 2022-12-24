@@ -126,12 +126,13 @@ Homepage Link: [https://haiminhu.org/dual_control_hri](https://haiminhu.org/dual
 Available on arXiv: [https://arxiv.org/abs/2202.07720](https://arxiv.org/abs/2202.07720)
 
 ```tex
-@incollection{hu2022active,
+@inproceedings{hu2023active,
   title={Active Uncertainty Reduction for Human-Robot Interaction: An Implicit Dual Control Approach},
-  author={Hu, Haimin and Fisac, Jaime F.},
+  author={Hu, Haimin and Fisac, Jaime F},
   booktitle={Algorithmic Foundations of Robotics XV},
-  year={2022},
-  publisher={Springer}
+  pages={385--401},
+  year={2023},
+  publisher={Springer International Publishing}
 }
 ```
 
