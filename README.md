@@ -1,4 +1,4 @@
-# Active Uncertainty Learning for Human-Robot Interaction: An Implicit Dual Control Approach
+# Active Uncertainty Reduction for Human-Robot Interaction: An Implicit Dual Control Approach
 <!-- Implementation of implicit dual control-based active uncertainty learning for human-robot interaction -->
 
 [![License][license-shield]][license-url]
@@ -12,10 +12,10 @@
     <img src="Misc/stree.png" alt="Logo" >
   </a>
 
-  <h3 align="center">Active Uncertainty Learning for HRI</h3>
+  <h3 align="center">Active Uncertainty Reduction for HRI</h3>
 
   <p align="center">
-    Active Uncertainty Learning for Human-Robot Interaction: An Implicit Dual Control Approach
+    Active Uncertainty Reduction for Human-Robot Interaction: An Implicit Dual Control Approach
     <!--
     <br />
     <a href="https://github.com/SafeRoboticsLab/Dual_Control_HRI"><strong>Explore the docs »</strong></a>
