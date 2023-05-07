@@ -123,7 +123,7 @@ Homepage Link: [https://haiminhu.org/dual_control_hri](https://haiminhu.org/dual
 <!-- PAPER -->
 ## Papers
 ### Journal paper:
-The journal preprint is now available on arXiv: [https://arxiv.org/abs/2202.07720](https://arxiv.org/abs/2202.07720)
+The journal preprint is now available on arXiv: [https://arxiv.org/abs/2302.00171](https://arxiv.org/abs/2302.00171)
 ```tex
 @article{hu2023active,
   title={Active Uncertainty Reduction for Safe and Efficient Interaction Planning: A Shielding-Aware Dual Control Approach},
