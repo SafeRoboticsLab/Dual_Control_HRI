@@ -123,13 +123,14 @@ Homepage Link: [https://haiminhu.org/dual_control_hri](https://haiminhu.org/dual
 <!-- PAPER -->
 ## Papers
 ### Journal paper:
-The journal preprint is now available on arXiv: [https://arxiv.org/abs/2302.00171](https://arxiv.org/abs/2302.00171)
 ```tex
-@article{hu2023active,
-  title={Active Uncertainty Reduction for Safe and Efficient Interaction Planning: A Shielding-Aware Dual Control Approach},
+@article{hu2023aur,
+  title={Active uncertainty reduction for safe and efficient interaction planning: A shielding-aware dual control approach},
   author={Hu, Haimin and Isele, David and Bae, Sangjae and Fisac, Jaime F},
-  journal={arXiv preprint arXiv:2302.00171},
-  year={2023}
+  journal={The International Journal of Robotics Research},
+  pages={02783649231215371},
+  year={2023},
+  publisher={SAGE Publications Sage UK: London, England}
 }
 ```
 
